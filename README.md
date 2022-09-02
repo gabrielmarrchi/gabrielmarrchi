@@ -17,4 +17,9 @@ _Editando o perfil_
 **Editando o perfil**
 
 ## Exemplo de código
-  
+
+```
+<html>
+<h1> <Editando perfil> </h1>
+</html>
+```
